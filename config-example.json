@@ -1,4 +1,5 @@
 {
+  "welcome_message": "**Welcome to this discord community.** \n You can verify yourself by \"!verify apikey\"",
   "server_id": "1111111111111111111",
   "bot_token": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
   "roles": {"Miller's Sound [DE]": "Millersund",

@@ -14,6 +14,11 @@ api_regex = "([A-Z,0-9]){8}-(([A-Z,0-9]){4}-){3}([A-Z,0-9]){20}-(([A-Z,0-9]){4}-
 
 
 @client.event
+async def on_member_join(member):
+    await client.send_message(member, config["welcome_message"])
+
+
+@client.event
 async def on_message(message):
     server = discord.utils.get(client.servers, id=config["server_id"])
     if message.content.startswith("!verify"):
