@@ -16,3 +16,6 @@
  https://discordapp.com/oauth2/authorize?client_id=CLIENTID&scope=bot
  ### Usage
  Direct message the bot with "!verify API-KEY"
+ 
+ ### Support
+ ingame donations to lenny.2437 are are welcomed and appreciated
