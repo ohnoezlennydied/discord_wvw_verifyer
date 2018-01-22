@@ -18,4 +18,4 @@
  Direct message the bot with "!verify API-KEY"
  
  ### Support
- ingame donations to lenny.2437 are are welcomed and appreciated
+ ingame donations to lenny.2437 are welcomed and appreciated
